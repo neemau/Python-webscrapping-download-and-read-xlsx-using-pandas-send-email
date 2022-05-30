@@ -237,7 +237,7 @@ print("email line executed")
 server.quit()
 
 ### move file
-# dest_folder = r'E:\pos\soultree\storeage'
+# dest_folder = r'E:\pos\dirname\storeage'
 # m_fir = r'E:\pos\dirname\storeage\attachment'
 # nfilename = m_fir+'\\'+str(datetime.datetime.now().time() )+ '.csv'
 # os.rename(filename,nfilename) 
